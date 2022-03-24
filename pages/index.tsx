@@ -53,7 +53,7 @@ const Home = ({ posts }: IProps) => {
                   </p>
                 </div>
                 <img
-                  className="h-12 w-12 rounded-full"
+                  className="h-12 w-12 rounded-full object-cover"
                   src={urlFor(post.author.image).url()}
                   alt=""
                 />
