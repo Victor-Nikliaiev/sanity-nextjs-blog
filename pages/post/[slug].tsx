@@ -173,7 +173,7 @@ function Post({ post }: Props) {
           <div key={comment._id}>
             <p>
               <span className="text-yellow-500">{comment.name}</span>:{' '}
-              {comment.comment}
+              <span className="text-green-500">{comment.comment}</span>
             </p>
           </div>
         ))}
