@@ -9,3 +9,4 @@ This is an example of a blog, where you can build it using Sanity CMS as a backe
 3. Tailwind CSS
 4. React Hook Forms
 5. TypeScript
+6. GROQ
